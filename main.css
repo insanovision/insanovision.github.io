@@ -1,0 +1,102 @@
+.bit-widget {
+  min-width: 270px;
+  padding-bottom: 10px; }
+  .bit-widget .bit-spacer {
+    height: 10px; }
+  .bit-widget .bit-date {
+    font-weight: bold; }
+  .bit-widget .bit-no-dates-container {
+    border-top: 1px solid rgba(124, 124, 124, 0.25);
+    text-align: center;
+    margin: 0px 10px 0px 10px;
+    padding: 100px 0px 100px 0px; }
+    .bit-widget .bit-no-dates-container .bit-no-dates-title {
+      text-transform: uppercase;
+      font-size: 15px;
+      font-weight: bold;
+      margin-bottom: 5px;
+      line-height: 20px; }
+    .bit-widget .bit-no-dates-container .bit-track-button {
+      text-decoration: none;
+      display: inline-block;
+      padding: 10px 0px;
+      width: 284px;
+      margin: 15px 0 0 0;
+      text-transform: uppercase; }
+  .bit-widget .bit-nav-bar-container {
+    padding: 0px 10px 0px 10px; }
+    .bit-widget .bit-nav-bar-container .bit-nav-bar {
+      display: inline-flex;
+      float: none;
+      flex-direction: row; }
+  .bit-widget .bit-upcoming-events, .bit-widget .bit-past-events {
+    margin-bottom: 8px;
+    margin: 0px 10px 10px 10px; }
+  .bit-widget .bit-local-events-container {
+    margin: 0px 10px 0px 10px; }
+  .bit-widget .bit-upcoming-events-show-all-button, .bit-widget .bit-past-events-show-all-button {
+    font-size: 11px;
+    font-weight: bold;
+    padding: 12px 0px;
+    background-color: transparent;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: 0px 10px 0px 10px; }
+  .bit-widget .bit-button {
+    text-align: center;
+    cursor: pointer;
+    padding: 8px 0px 8px 0px; }
+  .bit-widget .bit-offers {
+    text-transform: uppercase;
+    margin-right: 2px; }
+  .bit-widget .bit-event-list-title {
+    font-weight: bold;
+    padding: 10px 12px 10px 0px;
+    display: inline-block;
+    text-transform: uppercase; }
+    .bit-widget .bit-event-list-title.bit-clickable {
+      text-decoration: underline;
+      cursor: pointer; }
+  .bit-widget .bit-event {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px 0px; }
+    .bit-widget .bit-event .bit-details {
+      display: flex;
+      flex-direction: column;
+      padding-left: 2px;
+      line-height: 1.5em; }
+    .bit-widget .bit-event .bit-offers {
+      flex: 0 0 12em;
+      white-space: nowrap;
+      font-size: .8em;
+      font-weight: bold; }
+  .bit-widget.bit-layout-row .bit-event:hover {
+    background-color: rgba(81, 81, 81, 0.1); }
+  .bit-widget.bit-layout-row .bit-event .bit-details {
+    flex-direction: row;
+    width: 100%; }
+    .bit-widget.bit-layout-row .bit-event .bit-details .bit-date {
+      font-weight: bold;
+      width: 12.5%;
+      white-space: nowrap;
+      flex: 1 0 8em; }
+    .bit-widget.bit-layout-row .bit-event .bit-details .bit-venue {
+      width: 43.75%;
+      padding-right: 22px; }
+    .bit-widget.bit-layout-row .bit-event .bit-details .bit-location {
+      width: 43.75%; }
+  .bit-widget img.bit-widget-loading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+    width: 20px; }
+  .bit-widget .google-pixel-iframe {
+    height: 1px;
+    width: 1px;
+    display: none; }
