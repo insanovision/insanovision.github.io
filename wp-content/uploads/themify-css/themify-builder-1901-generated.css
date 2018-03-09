@@ -33,7 +33,7 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.792) 0%, transparent 10%);
 /* .themify_builder_1901_row.module_row_1 Style */
 .themify_builder_1901_row.module_row_1.module_row {
 	background-image: url(http://insanovision.github.io/wp-content/uploads/2016/10/rainbow-smoke.jpg);
-	background-color: #302c2b;
+	background-color: #000000;
 	padding-right : 3%;
 	padding-left : 3%
 }
@@ -56,7 +56,7 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.792) 0%, transparent 10%);
 
 /* .themify_builder_1901_row.module_row_3 Style */
 .themify_builder_1901_row.module_row_3.module_row {
-	background-color: #302c2b;
+	background-color: #000000;
 	font-family: PT Sans;
 	font-size: 16px;
 	padding-top : 3%;
@@ -113,14 +113,14 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.792) 0%, transparent 10%);
 .themify_builder .text-1901-4-0-1.module-text a:hover { color: #cccccc;  } 
 /* .themify_builder_1901_row.module_row_5 Style */
 .themify_builder_1901_row.module_row_5.module_row {
-	background-color: #302c2b;
+	background-color: #000000;
 	padding-top : 0px;
 	padding-right : 3%;
 	padding-bottom : 0px;
 	padding-left : 3%
 }
 
-.themify_builder .text-1901-5-0-1.module-text { background-color: #302C2B; font-family: PT Serif; color: #ffffff; font-size: 20px; text-align: center; padding-top: 3%; padding-bottom: 3%;  } 
+.themify_builder .text-1901-5-0-1.module-text { background-color: #000000; font-family: PT Serif; color: #ffffff; font-size: 20px; text-align: center; padding-top: 3%; padding-bottom: 3%;  } 
 .themify_builder .text-1901-5-0-1.module-text h1 { font-family: PT Serif; color: #ffffff;  } 
 .themify_builder .text-1901-5-0-1.module-text h2 { font-family: PT Serif; color: #ffffff;  } 
 .themify_builder .text-1901-5-0-1.module-text h3:not(.module-title) { font-family: PT Serif; color: #ffffff;  } 
@@ -160,7 +160,7 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.792) 0%, transparent 10%);
 .themify_builder .post-1901-6-0-2.module-post .post-content .entry-content { font-family: PT Sans; color: #ffffffff; font-size: 16px;  } 
 /* .themify_builder_1901_row.module_row_7 Style */
 .themify_builder_1901_row.module_row_7.module_row {
-	background-color: #302c2b;
+	background-color: #000000;
 	padding-right : 3%;
 	padding-left : 3%
 }
@@ -189,7 +189,7 @@ background: linear-gradient(180deg,rgba(0, 0, 0, 0.792) 0%, transparent 10%);
 
 /* .themify_builder_1901_row.module_row_9 Style */
 .themify_builder_1901_row.module_row_9.module_row {
-	background-color: #302c2b;
+	background-color: #000000;
 	padding-top : 3%;
 	padding-right : 3%;
 	padding-bottom : 3%;
